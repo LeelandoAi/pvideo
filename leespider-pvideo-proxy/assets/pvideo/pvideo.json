@@ -1,10 +1,10 @@
 {
-    "pvideo-x86_64": "https://gh-proxy.org/https://github.com/LeelandoAi/pvideo/blob/main/assets/pvideo/pvideo-x86_64.zip",
-    "pvideo-x86": "https://gh-proxy.org/https://github.com/LeelandoAi/pvideo/blob/main/assets/pvideo/pvideo-x86.zip",
-    "pvideo-armeabi-v7a": "https://gh-proxy.org/https://github.com/LeelandoAi/pvideo/blob/main/assets/pvideo/pvideo-armeabi-v7a.zip",
-    "pvideo-arm64-v8a": "https://gh-proxy.org/https://github.com/LeelandoAi/pvideo/blob/main/assets/pvideo/pvideo-arm64-v8a.zip",
-    "pvideo-x86_64.md5": "3f613fc70f7181f584fabab083b1434c",
-    "pvideo-x86.md5": "f8dc68be9ed46a66817de3f0de602e9f",
-    "pvideo-armeabi-v7a.md5": "0724efdb54f69c588398f192abf86534",
-    "pvideo-arm64-v8a.md5": "26ba70b84f6c6fdf4ecc45cf97eda2d7"
+    "pvideo-x86_64": "https://gh-proxy.org/https://raw.githubusercontent.com/LeelandoAi/pvideo/main/leespider-pvideo-proxy/assets/pvideo/pvideo-x86_64.zip",
+    "pvideo-x86": "https://gh-proxy.org/https://raw.githubusercontent.com/LeelandoAi/pvideo/main/leespider-pvideo-proxy/assets/pvideo/pvideo-x86.zip",
+    "pvideo-armeabi-v7a": "https://gh-proxy.org/https://raw.githubusercontent.com/LeelandoAi/pvideo/main/leespider-pvideo-proxy/assets/pvideo/pvideo-armeabi-v7a.zip",
+    "pvideo-arm64-v8a": "https://gh-proxy.org/https://raw.githubusercontent.com/LeelandoAi/pvideo/main/leespider-pvideo-proxy/assets/pvideo/pvideo-arm64-v8a.zip",
+    "pvideo-x86_64.md5": "678056db345362270e8351025085d357",
+    "pvideo-x86.md5": "6d30a292669b2479f2b9e69ebbbaa66a",
+    "pvideo-armeabi-v7a.md5": "37b8bc64b489daa24bd99820f0a4c327",
+    "pvideo-arm64-v8a.md5": "f705dfc12dea16f191b8afce1f0ef80a"
 }
